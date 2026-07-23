@@ -36,11 +36,13 @@ A collection of advanced Python concepts, patterns, and practical examples for m
 python-deep-dive/
 ├── asyncio/
 ├── threading/
-├── multiprocessing/
-├── concurrent_futures/
 ├── generators/
 ├── decorators/
+├── dataclasses/
+├── multiprocessing/
+├── concurrent_futures/
 ├── context_managers/
-├── metaclasses/
 ├── profiling/
 └── python_internals/
+└── New-Concepts/
+└── NewScripts/
